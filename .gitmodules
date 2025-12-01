@@ -1,0 +1,3 @@
+[submodule "wifizone-backend"]
+	path = wifizone-backend
+	url = https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/wifizone-backend.git
